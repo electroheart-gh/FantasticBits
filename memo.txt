@@ -1,0 +1,17 @@
+### PLAN ###
+# Improve throw command
+  Make sure the target and check the obstacles
+  Chose options like pass to the forward
+
+# Check Flipendo command
+  Useless Flipendo seems to be invoked
+
+# Refactor class methods,
+  Make clear function of each method.
+  Rename, consolidate or separate them.
+
+# Refactor list comprehension for choosing object from list by attributes like distance and so on.
+
+
+### DONE ###
+
